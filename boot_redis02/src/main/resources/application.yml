@@ -1,0 +1,7 @@
+server:
+  port: 9999
+spring:
+  redis:
+    host: lcoalhost
+    database: 0
+    password: "redis"

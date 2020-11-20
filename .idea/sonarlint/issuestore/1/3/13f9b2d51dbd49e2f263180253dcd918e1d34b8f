@@ -1,0 +1,5 @@
+
+fsquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èëùº
+rsquid:S00116"URename this field "REDIS_LOCK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…´´–ûÿÿÿÿ
+=squid:S1170"!Make this final field static too.(…´´–ûÿÿÿÿ
+vsquid:S1192."ZDefine a constant instead of duplicating this literal "\t æœåŠ¡ç«¯æä¾›æ¥å£:" 4 times.(áøğ’úÿÿÿÿ
